@@ -1,0 +1,9 @@
+[submodule "bitbake"]
+	path = bitbake
+	url = git://git.openembedded.org/bitbake
+[submodule "meta-cormorant"]
+	path = meta-cormorant
+	url = git@github.com:cogsy23/meta-cormorant.git
+[submodule "meta-zephyr"]
+	path = meta-zephyr
+	url = git@github.com:cogsy23/meta-zephyr.git
